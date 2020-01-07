@@ -1,8 +1,4 @@
-a=5
-b=5
+a=hello
+b=world
 result=a+b
 print(result)
-e=10
-f=5
-resulttwo=e+f
-print(resulttwo)
